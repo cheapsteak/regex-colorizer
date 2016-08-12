@@ -1,0 +1,24 @@
+{
+  "name": "regex-colorizer",
+  "version": "0.3.1",
+  "description": "Adds syntax highlighting to regular expressions for readability",
+  "main": "regex-colorizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheapsteak/regex-colorizer.git"
+  },
+  "keywords": [
+    "regex",
+    "colorizer",
+    "regex-colorizer"
+  ],
+  "author": "Steve Levithan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheapsteak/regex-colorizer/issues"
+  },
+  "homepage": "https://github.com/cheapsteak/regex-colorizer#readme"
+}

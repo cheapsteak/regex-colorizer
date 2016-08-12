@@ -526,3 +526,5 @@ var RegexColorizer = (function () {
     return self;
 
 }());
+
+module.exports = RegexColorizer;
